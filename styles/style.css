@@ -1,6 +1,6 @@
 
 
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -9,9 +9,13 @@
 
 body {
     font-family: 'Arial', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
 }
 
-/* Flexbox Layout */
+
 .container {
     display: flex;
     flex-direction: column;
@@ -37,7 +41,7 @@ body {
     margin-top: 10px;
 }
 
-/* Main Layout */
+
 .main {
     display: flex;
     flex: 1;
@@ -49,11 +53,15 @@ body {
     background-color: teal; 
     padding: 20px;
     color: white;
+    border-radius: 10px;
+    
 }
 
 .sidebar h3 {
     font-size: 24px;
     margin-bottom: 20px;
+    text-align: center;
+    color: black;
 }
 
 .sidebar ul {

@@ -75,7 +75,7 @@ body {
 .sidebar li a {
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 35px;
     transition: color 0.3s ease;
 }
 
@@ -130,10 +130,10 @@ body {
 
 
 .footer {
-    background-color: #333;
-    color: white;
+    background-color:cornflowerblue;
+    color: black;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
     font-size: 16px;
     position: relative;
     bottom: 0;
@@ -141,5 +141,5 @@ body {
 }
 
 .footer p {
-    margin: 0;
+    margin: 30px;
 }

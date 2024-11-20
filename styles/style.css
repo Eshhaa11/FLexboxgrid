@@ -74,7 +74,7 @@ body {
 
 .sidebar li a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 45px;
     font-family: Verdana, sans-serif;
     transition: color 0.3s ease;

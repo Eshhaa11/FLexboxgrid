@@ -50,7 +50,7 @@ body {
 
 .sidebar {
     flex: 1;
-    background-color: teal; 
+    background-color: rgb(167, 199, 231); 
     padding: 20px;
     color: white;
     border-radius: 10px;
